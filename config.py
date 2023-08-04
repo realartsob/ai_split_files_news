@@ -1,0 +1,3 @@
+# config.py
+MAX_WORD_COUNT = 800
+DEFAULT_COMPLEXITY = 'Normal'
